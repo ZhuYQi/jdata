@@ -1,6 +1,6 @@
 # jdata author: ZhuYuanqi
 JDATA City Logistics Design Competition
-Finished at 2018-09-07
+Finished at 2018-09-04
 
 I have applied the 2 nodes distance saving ranklist to generate the initial result
 
