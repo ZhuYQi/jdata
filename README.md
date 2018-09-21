@@ -6,6 +6,6 @@ I have applied the 2 nodes distance saving ranklist to generate the initial resu
 
 the area divider is finished, but the related application seems have no effect on it.
 
-first selecting time emergency nodes have slight improvement.
+firstly selecting time emergency nodes have slight improvement.
 
 some heuristic algorithm needed to be add on the initial result.
